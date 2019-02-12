@@ -7,4 +7,4 @@ MyBlockchain/myblockchain.js
 election/contracts/Election.sol <br>
 election/src/index.html
 ### 基于超级账本开发智能合约
-fabric/sgcc.go
+fabric/sacc.go
