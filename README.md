@@ -1,10 +1,10 @@
 
-## ´ó»°Çø¿éÁ´´úÂë
+## å¤§è¯åŒºå—é“¾ä»£ç 
 blockchaintutorial
-### Ê¹ÓÃNode.js¹¹½¨Çø¿éÁ´
+### ä½¿ç”¨Node.jsæ„å»ºåŒºå—é“¾
 MyBlockchain/myblockchain.js
-### »ùÓÚÒÔÌ«·»¹¹½¨Í¶Æ±DAPP
+### åŸºäºä»¥å¤ªåŠæ„å»ºæŠ•ç¥¨DAPP
 election/contracts/Election.sol <br>
 election/src/index.html
-### »ùÓÚ³¬¼¶ÕË±¾¿ª·¢ÖÇÄÜºÏÔ¼
+### åŸºäºè¶…çº§è´¦æœ¬å¼€å‘æ™ºèƒ½åˆçº¦
 fabric/sgcc.go
