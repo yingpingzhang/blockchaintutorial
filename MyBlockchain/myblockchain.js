@@ -1,4 +1,4 @@
-// 从node.js的crypto-js库中导入SHA256函数
+﻿// 从node.js的crypto-js库中导入SHA256函数
 const SHA256 = require('crypto-js/sha256');
 
 // 定义当前日期
@@ -52,26 +52,26 @@ class Block {
  */
 class Blockchain{
 
-  /**
-   * 区块链对象默认构造函数
-   */
+    /**
+     * 区块链对象默认构造函数
+     */
     constructor() {
         this.chain = [this.createGenesis()];
          this.difficulty = 4;
     }
 
-  /**
-   * 创建创世区块
-   * @return [返回创世区块]
-   */
+    /**
+     * 创建创世区块
+     * @return [返回创世区块]
+     */
     createGenesis() {
         return new Block(0, timestamp, "Genesis block", "0");
     }
 
-  /**
-   * 获得最新的区块
-   * @return [返回最新的区块]
-   */
+    /**
+     * 获取最新区块
+     * @return [返回最新的区块]
+     */
     getLatestBlock() {
         return this.chain[this.chain.length - 1];
     }
@@ -87,7 +87,7 @@ class Blockchain{
     }
 
     /**
-     * [检查区块链的有效性]
+     * 检查区块链的有效性
      * @return [true代表区块没有被篡改，false代表区块被篡改]
      */
     checkValid() {
