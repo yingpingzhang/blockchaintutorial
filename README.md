@@ -1,10 +1,28 @@
 
-## 大话区块链代码
-blockchaintutorial
-### 使用Node.js构建区块链
+
+# blockchaintutorial
+
+>大话区块链
+
+## 使用Node.js构建区块链
 MyBlockchain/myblockchain.js
-### 基于以太坊构建投票DAPP
-election/contracts/Election.sol <br>
+
+## 基于以太坊构建投票 DAPP
+election/contracts/Election.sol    
 election/src/index.html
-### 基于超级账本开发智能合约
+
+## 基于超级账本开发智能合约  
 fabric/sacc.go
+
+## 购买链接 
+
+[京东](https://item.jd.com/12719282.html)
+
+[当当](http://product.dangdang.com/27950523.html)
+
+
+<div align=center>
+
+
+![大话区块链](./pic/book.jpg)
+</div>
