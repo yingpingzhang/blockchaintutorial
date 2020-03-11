@@ -27,7 +27,7 @@
 [MyBlockchain/myblockchain.js](./MyBlockchain/myblockchain.js)
 
 ### 基于以太坊构建投票 DAPP
-[election/contracts/Election.sol](./lection/contracts/Election.sol)
+[election/contracts/Election.sol](./lection/contracts/Election.sol)  
 [election/src/index.html](./election/src/index.html)
 
 ### 基于超级账本开发智能合约  
